@@ -1,6 +1,7 @@
 # Install Salt Minion for Windows
 
-1. install minion with chocolatey
+1. install minion with chocolatey 
+   > https://chocolatey.org/install
 2. modify c:\salt\minion
     ```conf
     master: ipaddress or hostname of your salt-master
