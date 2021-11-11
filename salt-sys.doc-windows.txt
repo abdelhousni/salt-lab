@@ -1,0 +1,1 @@
+salt PC-DAR sys.doc --force-color
